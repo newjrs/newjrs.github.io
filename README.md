@@ -4,6 +4,7 @@
 * [Archive版本](https://archive.is/WAMaO)
 
 # [开放区小站和r/China_irl的背景及安全性浅评](https://newjrs.github.io)
+匿名人士，2019-4-23
 
 ## 背景介绍
 
