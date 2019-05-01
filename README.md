@@ -86,3 +86,13 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 1. [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/?p=6844)
 2. KP2020: [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md)
 3. Reddit用户fengli03:[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348)
+
+<!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=7067320&style=0001&nbdigits=5&type=page&initCount=10" title="Counter for tumblr" Alt="Counter for tumblr"   border="0" >
+</a>                                        <br/>
+                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
+                                        target="_blank" style="font-family: ; 
+                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
+                                        </a>   
+                            
