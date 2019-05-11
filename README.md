@@ -85,7 +85,9 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 ## 附：其它观点
 1. [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/?p=6844)
 2. KP2020: [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md)
-3. Reddit用户fengli03:[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348)
+3. Reddit用户[fengli03](https://www.reddit.com/user/fengli3):[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348), [Reddit原文及评论](https://www.reddit.com/r/saraba1st/comments/ax3bq5/%E8%AF%B4%E4%B8%80%E4%B8%8B%E8%99%8E%E6%89%91%E9%98%B2%E5%8C%BA%E4%BB%A5%E5%8F%8A%E6%9C%80%E8%BF%91%E5%85%B4%E8%B5%B7%E7%9A%84rchina_irl%E7%89%88%E5%9D%97/)
+4. Reddit用户[Topdeckdog](https://www.reddit.com/user/Topdeckdog): [不要太自以为是了。口头警告。 removed comments: 16/34 (47.1%)](https://www.reddit.com/r/saraba1st/comments/bmi86r/%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BA%86%E5%8F%A3%E5%A4%B4%E8%AD%A6%E5%91%8A_removed_comments_1634_471/)， [触怒党国被删之贴](https://www.removeddit.com/r/China_irl/comments/bmbxkn/%E8%B7%AF%E9%80%8F%E7%A4%BE%E4%B8%AD%E5%9B%BD%E4%BB%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%89%BF%E8%AF%BA%E4%B8%8A%E5%85%A8%E9%9D%A2%E5%8F%8D%E6%82%94_%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%9C%87%E6%80%92%E8%BF%98%E4%BB%A5%E6%9B%B4%E5%A4%9A%E5%85%B3%E7%A8%8E/)
+5. 化作looose的脚本王子(疑似品葱支字头)[熟悉地利用品葱点踩漏洞找出匿名用户，用熟悉的长臂管辖’命令‘品葱管理员处理其他品葱用户](https://web.archive.org/web/20190511211226/https://pincong.rocks/question/3821)
 
 <a href="http://www.webestools.com/global-counter-free-online-live-pages-views-visits-visitors-statistics.html"><img src="http://services.webestools.com/cpt_global/50831-19.png" alt="Free Global Counter" /></a>
                             
