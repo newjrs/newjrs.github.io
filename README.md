@@ -91,6 +91,9 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
     >[1做贼心虚删掉捧场原文](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm)几成不重要了，现在订阅超过两千，在线两百，对于一个仓促建立有上网门槛的外文网站板块来说，非常不错了 
     
     >[2做贼心虚删掉黑屁原文](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb)我打个比方，香港和台湾把政府交给黄志峰和林昶佐会怎样，委内瑞拉的闹剧不过是占中和太阳花革命的拉美版
+    
+    >证明此abudsalam是China_irl站长的证据：
+    ![截图底部显示他还有发新闻摘要的记录](./阿不都沙拉木阿不都热西提(u_abudsalam)-Reddit.png)
 
 <a href="http://www.webestools.com/global-counter-free-online-live-pages-views-visits-visitors-statistics.html"><img src="http://services.webestools.com/cpt_global/50831-19.png" alt="Free Global Counter" /></a>
                             
