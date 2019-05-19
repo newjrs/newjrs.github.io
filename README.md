@@ -48,7 +48,7 @@
 
 [济南，新的互联网审核之都](https://archive.is/JgYOr)
 
-根据另一篇[针对网评员培训的爆料](https://archive.is/CTWRT)，网络评论员的主要来源是在校大学生，共青团系统，还有工会，宗教团体，退役军人，各种国企和事业单位。而早在两年前中共已经对体制内和高校人员的社交媒体账号完成了搜集。很难想象这些体制内的人士会在近乎裸奔的上网条件下“自由”、“无约束”的发表政见。
+根据另一篇[针对网评员培训的爆料](https://archive.li/YbWpL)，网络评论员的主要来源是在校大学生，共青团系统，还有工会，宗教团体，退役军人，各种国企和事业单位。而早在两年前中共已经对体制内和高校人员的社交媒体账号完成了搜集。很难想象这些体制内的人士会在近乎裸奔的上网条件下“自由”、“无约束”的发表政见。
 
 ## 四、开放区小站的封闭性和对用户的数据搜集
 开放区小站的名字本身就非常讽刺，取名‘开放区’，实际是非请勿入，讨论内容还无法匿名浏览，这跟自由世界的Reddit或品葱截然相反，跟‘人民日报’为党喉舌，‘朝鲜民主主义人民共和国’除了朝鲜什么都没有完全是异曲同工。
@@ -84,10 +84,12 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 
 ## 附：其它观点和后续
 1. [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/?p=6844)
-2. KP2020: [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md)
-3. Reddit用户[fengli03](https://www.reddit.com/user/fengli3):[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348), [Reddit原文及评论](https://www.reddit.com/r/saraba1st/comments/ax3bq5/%E8%AF%B4%E4%B8%80%E4%B8%8B%E8%99%8E%E6%89%91%E9%98%B2%E5%8C%BA%E4%BB%A5%E5%8F%8A%E6%9C%80%E8%BF%91%E5%85%B4%E8%B5%B7%E7%9A%84rchina_irl%E7%89%88%E5%9D%97/)
-4. Reddit用户[Topdeckdog](https://www.reddit.com/user/Topdeckdog): [不要太自以为是了。口头警告。 removed comments: 16/34 (47.1%)](https://www.reddit.com/r/saraba1st/comments/bmi86r/%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BA%86%E5%8F%A3%E5%A4%B4%E8%AD%A6%E5%91%8A_removed_comments_1634_471/)， [触怒党国被删之贴](https://www.removeddit.com/r/China_irl/comments/bmbxkn/%E8%B7%AF%E9%80%8F%E7%A4%BE%E4%B8%AD%E5%9B%BD%E4%BB%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%89%BF%E8%AF%BA%E4%B8%8A%E5%85%A8%E9%9D%A2%E5%8F%8D%E6%82%94_%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%9C%87%E6%80%92%E8%BF%98%E4%BB%A5%E6%9B%B4%E5%A4%9A%E5%85%B3%E7%A8%8E/)
-5. 2019-5-14，分析显示在品葱捣乱的[支字头跟小站同志是一伙人](https://pincong.rocks/question/4073?rf=false)，因为在揭穿化名looose的脚本王子(~~疑似~~品葱支字头)[熟悉地利用品葱点踩漏洞找出匿名用户，用熟悉的长臂管辖’命令‘品葱管理员处理其他品葱用户](https://web.archive.org/web/20190511211226/https://pincong.rocks/question/3821)后，恼羞成怒的[支字头又用相同的工具和套路对品葱发起了一轮刷屏攻击](https://pincong.rocks/question/4096)，他自己也[承认是为小站而攻击](https://pincong.rocks/article/1573)，并且支字头这次泄露了他在reddit的帐号[abudsalam](https://www.reddit.com/user/abudsalam)，此Troll以前在China_irl[帮版主捧场1](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm), [并且放黑屁2](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb)，近期又在[帮朝鲜打造形象](https://web.archive.org/web/20190513143944/https://www.reddit.com/user/abudsalam)(可以研究中共网评员的公关思路)。值得一提的是，此Troll被曝光之后又删掉了以前在China_irl的所有留言，不过还是有备份的。这些后续发展更进一步坐实了本文对墙内小站和China_irl的背景分析。
+2. 由哈佛、斯坦福、加州大学圣迭戈分校的三位政治学者对五毛的研究论文[Gary King, Jennifer Pan, Margaret E. Roberts,  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument](https://web.archive.org/web/20180816221233/http://jenpan.com/jen_pan/50c.pdf)
+3. KP2020: [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md)
+4. KP2020: [针对网评员培训师的爆料](https://archive.li/YbWpL)
+5. Reddit用户[fengli03](https://www.reddit.com/user/fengli3):[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348), [Reddit原文及评论](https://www.reddit.com/r/saraba1st/comments/ax3bq5/%E8%AF%B4%E4%B8%80%E4%B8%8B%E8%99%8E%E6%89%91%E9%98%B2%E5%8C%BA%E4%BB%A5%E5%8F%8A%E6%9C%80%E8%BF%91%E5%85%B4%E8%B5%B7%E7%9A%84rchina_irl%E7%89%88%E5%9D%97/)
+6. Reddit用户[Topdeckdog](https://www.reddit.com/user/Topdeckdog): [不要太自以为是了。口头警告。 removed comments: 16/34 (47.1%)](https://www.reddit.com/r/saraba1st/comments/bmi86r/%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BA%86%E5%8F%A3%E5%A4%B4%E8%AD%A6%E5%91%8A_removed_comments_1634_471/)， [触怒党国被删之贴](https://www.removeddit.com/r/China_irl/comments/bmbxkn/%E8%B7%AF%E9%80%8F%E7%A4%BE%E4%B8%AD%E5%9B%BD%E4%BB%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%89%BF%E8%AF%BA%E4%B8%8A%E5%85%A8%E9%9D%A2%E5%8F%8D%E6%82%94_%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%9C%87%E6%80%92%E8%BF%98%E4%BB%A5%E6%9B%B4%E5%A4%9A%E5%85%B3%E7%A8%8E/)
+7. 2019-5-14更新，分析显示在品葱捣乱的[支字头跟小站同志是一伙人](https://pincong.rocks/question/4073?rf=false)，因为在揭穿化名looose的脚本王子(~~疑似~~品葱支字头)[熟悉地利用品葱点踩漏洞找出匿名用户，用熟悉的长臂管辖’命令‘品葱管理员处理其他品葱用户](https://web.archive.org/web/20190511211226/https://pincong.rocks/question/3821)后，恼羞成怒的[支字头又用相同的工具和套路对品葱发起了一轮刷屏攻击](https://pincong.rocks/question/4096)，他自己也[承认是为小站而攻击](https://pincong.rocks/article/1573)，并且支字头这次泄露了他在reddit的帐号[abudsalam](https://www.reddit.com/user/abudsalam)，此Troll以前在China_irl[帮版主捧场1](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm), [并且放黑屁2](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb)，近期又在[帮朝鲜打造形象](https://web.archive.org/web/20190513143944/https://www.reddit.com/user/abudsalam)(可以研究中共网评员的公关思路)。值得一提的是，此Troll被曝光之后又删掉了以前在China_irl的所有留言，不过还是有备份的。这些后续发展更进一步坐实了本文对墙内小站和China_irl的背景分析。
     >[1做贼心虚删掉捧场原文](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm): 几成不重要了，现在订阅超过两千，在线两百，对于一个仓促建立有上网门槛的外文网站板块来说，非常不错了 
     
     >[2做贼心虚删掉黑屁原文](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb): 我打个比方，香港和台湾把政府交给黄志峰和林昶佐会怎样，委内瑞拉的闹剧不过是占中和太阳花革命的拉美版
