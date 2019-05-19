@@ -84,7 +84,7 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 
 ## 附：其它观点和后续
 1. [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/?p=6844)
-2. [由哈佛、斯坦福、加州大学圣迭戈分校的三位政治学者对五毛的研究论文Gary King, Jennifer Pan, Margaret E. Roberts,  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument](https://archive.md/dZysi)
+2. [由哈佛、斯坦福、加州大学圣迭戈分校的三位政治学者对五毛的研究论文 Gary King, Jennifer Pan, Margaret E. Roberts,  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument](https://archive.md/dZysi)
     >长期以来，中国政府一直被怀疑雇用多达200万人，暗中将大量的假名和其他欺骗性文章插入真实的社交媒体帖子中，好像他们是普通人的真实意见。
 
     >我们将这些活动解释为政权在战略上对（公众的）集体行动、不满、或普遍的负面反应等进行分散注意力的努力。
@@ -101,6 +101,7 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
     
     >附图证明品葱支字头abudsalam是小站和China_irl站长小号的证据：底部有他发小站irl保留节目 __每日新闻__ 的记录，最新的是他发朝鲜美女的记录（还自建两个sub的moderator呢！），因为China_irl已经处于僵尸态。
     ![底部有他发每日新闻的记录](./阿不都沙拉木阿不都热西提(u_abudsalam)-Reddit.png)
+8. 2019-5-17更新，  [品葱已有人提议将上门的网评员做成开源数据库](https://pincong.rocks/article/1612)， 绝妙！
 
 <a href="http://www.webestools.com/global-counter-free-online-live-pages-views-visits-visitors-statistics.html"><img src="http://services.webestools.com/cpt_global/50831-19.png" alt="Free Global Counter" /></a>
                             
