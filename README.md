@@ -1,7 +1,7 @@
 * [PDF版本](./KFQ_China_irl_Background_Security_Analysis.pdf)
 * [Reddit版本](https://www.reddit.com/r/saraba1st/comments/bgni7i/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8Crchina_irl%E7%9A%84%E8%83%8C%E6%99%AF%E5%8F%8A%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%85%E8%AF%84/)
-* [电报版本](https://telegra.ph/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8CrChina-irl%E6%98%AF%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E5%A4%A7%E5%A4%96%E5%AE%A3%E9%A1%B9%E7%9B%AE-04-23)
-* [Archive版本](https://archive.is/WAMaO)
+* [电报版本](https://telegra.ph/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8CrChina-irl%E6%98%AF%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E5%A4%A7%E5%A4%96%E5%AE%A3%E9%A1%B9%E7%9B%AE-04-23) [更新](https://telegra.ph/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8CrChina-irl%E7%9A%84%E8%83%8C%E6%99%AF%E5%8F%8A%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%85%E8%AF%84-05-23)
+* [Archive版本1](https://archive.is/WAMaO)， [Archive版本2](https://archive.li/aIKsA)
 
 # [开放区小站和r/China_irl的背景及安全性浅评](https://newjrs.github.io)
 匿名人士，2019-4-23
