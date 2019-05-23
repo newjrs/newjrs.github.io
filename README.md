@@ -103,6 +103,7 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
     >附图证明品葱支字头abudsalam是小站和China_irl站长小号的证据：底部有他发小站irl保留节目 __每日新闻__ 的记录，最新的是他发朝鲜美女的记录（还自建两个sub的moderator呢！），因为China_irl已经处于僵尸态。
     ![底部有他发每日新闻的记录](./阿不都沙拉木阿不都热西提(u_abudsalam)-Reddit.png)
 9. 2019-5-17更新，  [品葱已有人提议将上门的网评员做成开源数据库](https://pincong.rocks/article/1612)， 绝妙！
+10. 2019-5-18, Hymnsin, [墙外流亡中文论坛现况（2019年五月）](https://matters.news/@lzybio/%E5%A2%99%E5%A4%96%E6%B5%81%E4%BA%A1%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%86%B5-2019%E5%B9%B4%E4%BA%94%E6%9C%88-zdpuB2tRc2qVrjdqYdp7KhxYpXPi2ss9X5rdo2nzVDMrN7xAe), Matters.news
 
 <a href="http://www.webestools.com/global-counter-free-online-live-pages-views-visits-visitors-statistics.html"><img src="http://services.webestools.com/cpt_global/50831-19.png" alt="Free Global Counter" /></a>
                             
