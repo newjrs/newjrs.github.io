@@ -1,4 +1,4 @@
-[此文](./README.md)已发[在品葱并引发共200楼讨论](https://pincong.rocks/article/1339), [后续](https://pincong.rocks/article/1354), 网友electron的[评论1:朝粪坑扔了块石头，结果被溅得一身了吧。](https://pincong.rocks/article/1345), [评论2: 他们没有恶意灌水，水平和素质比帝吧出征还是高不少，这点值得赞赏。](https://pincong.rocks/article/1370) 和 Reddit网友fengli03的评论:[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348)
+[此文](./README.md)已发[在品葱并引发共200楼讨论](https://pincong.rocks/article/1339), [后续](https://pincong.rocks/article/1354), 网友electron的[评论1:朝粪坑扔了块石头，结果被溅得一身了吧。](https://pincong.rocks/article/1345), [评论2: 他们没有恶意灌水，水平和素质比帝吧出征还是高不少，这点值得赞赏。](https://pincong.rocks/article/1370) 和 Reddit网友fengli03的评论:[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348)， [2049bbs](https://2049bbs.xyz)站长Ciao评论：[“@goddamnit irl telegram 群里的有个叫欧阳的，简直就是标准网评员。https://t.me/China_irl ”](https://2049bbs.xyz/t/1111)
 
 ## 小站代表回应思路总结
 跟技术出身的品葱管理员@小二 @admin 应对[时区泄漏](https://pincong.rocks/article/575)、支字头的正面回应及技术升级等处理方式相比，小站代表队的危机公关处理明显走的是一条思路清晰、套路明确、反应快速的对人不对事、模糊焦点的策略。这更进一步暴露对方政工背景。
@@ -23,9 +23,21 @@ KP2020 申诉受人身攻击，站方一直未按版规处理 （2019-4-19）
 ![ss](./ss.png)
 
 ## KP2020 newjrs.xyz 消息记录（最新在前）
-KP2020并非部分抹黑者所谓人人喊打的对象，对KP2020的人身攻击集中来自十几个小站用户。
+KP2020并非部分抹黑者所谓人人喊打的对象，对KP2020的人身攻击集中来自10个小站用户。
+用户名 | 累计攻击次数(>3)
+脑壳疼 | 20
+jayjoke | 13
+roy_143 | 9
+北镇抚司挥史 7
+mo_n, [redditer](https://www.reddit.com/user/mo_n) | 5
+badgirl1 | 4
+奥贝斯坦 | 4
+北纬二十七度 | 4
+三上悠亚 | 4
+冯迪特里施 | 4
+（上述统计截至2019年4月25日，部分用户可能改名）
 
-KP2020所发表的倾自由派观点反而获得了非常多小站用户的赞，考虑大部分小站用户在墙内，这一点让人略感欣慰，说明中国前些年的教育还是成功的。
+KP2020所发表的倾自由派观点反而获得了非常多小站用户的赞（共发26贴，累计约261赞），考虑大部分小站用户在墙内，这一点让人略感欣慰，说明中国前些年的教育还是成功的。
 
 这个版本不包括已被jayjoke自己删掉的两条敏感留言
 
