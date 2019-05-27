@@ -110,3 +110,6 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 
 <a href="http://www.webestools.com/global-counter-free-online-live-pages-views-visits-visitors-statistics.html"><img src="http://services.webestools.com/cpt_global/50831-19.png" alt="Free Global Counter" /></a>
                             
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186330);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186330ns.gif" /></p></noscript>
