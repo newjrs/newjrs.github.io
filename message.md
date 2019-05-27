@@ -116,3 +116,7 @@ KP2020的小站消息记录表明，实际上，KP2020并非部分抹黑者所�
 KP2020所发表的倾自由派观点反而获得了非常多小站用户的赞，考虑大部分小站用户在墙内，这一点让人略感欣慰，说明中国前些年的教育还是成功的。
 
 KP2020 自2019-4-19正式申诉受到人身攻击，但站方直至封禁KP2020帐号均未按版规处理
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186330);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186330ns.gif" /></p></noscript>
