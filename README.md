@@ -107,6 +107,7 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
     ![底部有他发每日新闻的记录](./阿不都沙拉木阿不都热西提(u_abudsalam)-Reddit.png)
 9. 2019-5-17更新，  [品葱已有人提议将上门的网评员做成开源数据库](https://pincong.rocks/article/1612)， 绝妙！
 10. 2019-5-18, Hymnsin, [墙外流亡中文论坛现况（2019年五月）](https://matters.news/@lzybio/%E5%A2%99%E5%A4%96%E6%B5%81%E4%BA%A1%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%86%B5-2019%E5%B9%B4%E4%BA%94%E6%9C%88-zdpuB2tRc2qVrjdqYdp7KhxYpXPi2ss9X5rdo2nzVDMrN7xAe), Matters.news
+11. 2019-6-1更新，[品葱2公开了投票记录](https://archive.li/zFVBV)，再下一把石锤证明，支字头本人ID‘我爱小二’，小站代表‘龙龙龙’，标准五毛‘千手关叔’系列，专业刷屏加碰瓷BE4的‘jjjab[cdefg]’系列，刷赞的动作那么整齐划一，那不就是同一个人吗。
 
 
 <!-- Start of WebFreeCounter Code -->
