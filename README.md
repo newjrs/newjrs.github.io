@@ -98,22 +98,23 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 5. [网上爆出的五毛手册《网评员内部资料(严禁外泄)》](https://pincong.rocks/article/756)
 6. Reddit用户[fengli03](https://www.reddit.com/user/fengli3):[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348), [Reddit原文及评论](https://www.reddit.com/r/saraba1st/comments/ax3bq5/%E8%AF%B4%E4%B8%80%E4%B8%8B%E8%99%8E%E6%89%91%E9%98%B2%E5%8C%BA%E4%BB%A5%E5%8F%8A%E6%9C%80%E8%BF%91%E5%85%B4%E8%B5%B7%E7%9A%84rchina_irl%E7%89%88%E5%9D%97/), [Archive版](https://archive.fo/HM8Lj)
 7. Reddit用户[Topdeckdog](https://www.reddit.com/user/Topdeckdog): [不要太自以为是了。口头警告。 removed comments: 16/34 (47.1%)](https://www.reddit.com/r/saraba1st/comments/bmi86r/%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BA%86%E5%8F%A3%E5%A4%B4%E8%AD%A6%E5%91%8A_removed_comments_1634_471/)， [触怒党国被删之贴](https://www.removeddit.com/r/China_irl/comments/bmbxkn/%E8%B7%AF%E9%80%8F%E7%A4%BE%E4%B8%AD%E5%9B%BD%E4%BB%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%89%BF%E8%AF%BA%E4%B8%8A%E5%85%A8%E9%9D%A2%E5%8F%8D%E6%82%94_%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%9C%87%E6%80%92%E8%BF%98%E4%BB%A5%E6%9B%B4%E5%A4%9A%E5%85%B3%E7%A8%8E/)
-8. 2019-5-14更新，分析显示在品葱捣乱的[支字头跟小站同志是一伙人](https://pincong.rocks/question/4073?rf=false)，因为在揭穿化名looose的脚本王子(~~疑似~~品葱支字头)[熟悉地利用品葱点踩漏洞找出匿名用户，用熟悉的长臂管辖’命令‘品葱管理员处理其他品葱用户](https://web.archive.org/web/20190511211226/https://pincong.rocks/question/3821)后，恼羞成怒的[支字头又用相同的工具和套路对品葱发起了一轮刷屏攻击](https://pincong.rocks/question/4096)，他自己也[承认是为小站而攻击](https://pincong.rocks/article/1573)，并且支字头这次泄露了他在reddit的帐号[abudsalam](https://www.reddit.com/user/abudsalam)，此Troll以前在China_irl[帮版主捧场1](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm), [并且放黑屁2](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb)，近期又在[帮朝鲜打造形象](https://web.archive.org/web/20190513143944/https://www.reddit.com/user/abudsalam)(可以研究中共网评员的公关思路)。值得一提的是，此Troll被曝光之后又删掉了以前在China_irl的所有留言，不过还是有备份的。这些后续发展更进一步坐实了本文对墙内小站和China_irl的背景分析。
+8. 2019-04-14，葱友[一只鹿兒](https://pincong.rocks/people/%E4%B8%80%E5%8F%AA%E9%B9%BF%E5%85%92)支字头刷屏时期旧文:[如何干烂新品葱？](https://pincong.rocks/article/1246)，[存档](https://archive.li/vzOI6).
+9. 2019-5-24, 背景知识 [你们说的“支字头”是啥意思啊？能解释下吗？](https://archive.li/1U6nM)
+10. 2019-5-14更新，分析显示在品葱捣乱的[支字头跟小站同志是一伙人](https://pincong.rocks/question/4073?rf=false)，因为在揭穿化名looose的脚本王子(~~疑似~~品葱支字头)[熟悉地利用品葱点踩漏洞找出匿名用户，用熟悉的长臂管辖’命令‘品葱管理员处理其他品葱用户](https://web.archive.org/web/20190511211226/https://pincong.rocks/question/3821)后，恼羞成怒的[支字头又用相同的工具和套路对品葱发起了一轮刷屏攻击](https://pincong.rocks/question/4096)，他自己也[承认是为小站而攻击](https://pincong.rocks/article/1573)，并且支字头这次泄露了他在reddit的帐号[abudsalam](https://www.reddit.com/user/abudsalam)，此Troll以前在China_irl[帮版主捧场1](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm), [并且放黑屁2](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb)，近期又在[帮朝鲜打造形象](https://web.archive.org/web/20190513143944/https://www.reddit.com/user/abudsalam)(可以研究中共网评员的公关思路)。值得一提的是，此Troll被曝光之后又删掉了以前在China_irl的所有留言，不过还是有备份的。这些后续发展更进一步坐实了本文对墙内小站和China_irl的背景分析。
     >[1做贼心虚删掉捧场原文](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm): 几成不重要了，现在订阅超过两千，在线两百，对于一个仓促建立有上网门槛的外文网站板块来说，非常不错了 
     
     >[2做贼心虚删掉黑屁原文](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb): 我打个比方，香港和台湾把政府交给黄志峰和林昶佐会怎样，委内瑞拉的闹剧不过是占中和太阳花革命的拉美版
     
     >附图证明品葱支字头abudsalam是小站和China_irl站长小号的证据：底部有他发小站irl保留节目 __每日新闻__ 的记录，最新的是他发朝鲜美女的记录（还自建两个sub的moderator呢！），因为China_irl已经处于僵尸态。
     ![底部有他发每日新闻的记录](./阿不都沙拉木阿不都热西提(u_abudsalam)-Reddit.png)
-9. 2019-5-17更新，  [品葱已有人提议将上门的网评员做成开源数据库](https://pincong.rocks/article/1612)， 绝妙！
-10. 2019-5-18, Hymnsin, [墙外流亡中文论坛现况（2019年五月）](https://matters.news/@lzybio/%E5%A2%99%E5%A4%96%E6%B5%81%E4%BA%A1%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%86%B5-2019%E5%B9%B4%E4%BA%94%E6%9C%88-zdpuB2tRc2qVrjdqYdp7KhxYpXPi2ss9X5rdo2nzVDMrN7xAe), Matters.news
-11. 2019-06-01更新，[品葱2公开了投票记录](https://pincong.rocks/article/1829)（[存档](https://archive.li/TJCND)），通过对两个帖子里的8次脚本刷赞行为的统计再下一把石锤证明：`支字头=小站同志=在品葱刷屏碰瓷搞破坏的五毛程序员` 。
+11. 2019-5-17更新， [品葱已有人提议将上门的网评员做成开源数据库](https://pincong.rocks/article/1612)， 绝妙！
+12. 2019-5-18, Hymnsin, [墙外流亡中文论坛现况（2019年五月）](https://matters.news/@lzybio/%E5%A2%99%E5%A4%96%E6%B5%81%E4%BA%A1%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%86%B5-2019%E5%B9%B4%E4%BA%94%E6%9C%88-zdpuB2tRc2qVrjdqYdp7KhxYpXPi2ss9X5rdo2nzVDMrN7xAe), 2019-02-19, [想象中国的自由](https://matters.news/@lzybio/%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%87%AA%E7%94%B1-zdpuAu2EYT7jTvh9uu2RwFpMoUwd3eEXQqqrAktWpShengc4X), Matters.news
+13. 2019-06-01更新，[品葱2公开了投票记录](https://pincong.rocks/article/1829)（[存档](https://archive.li/TJCND)），通过对两个帖子里的8次脚本刷赞行为的统计再下一把石锤证明：`支字头=小站同志=在品葱刷屏碰瓷搞破坏的五毛程序员` 。
     >葱友[科学怪人](https://pincong.rocks/people/%E7%A7%91%E5%AD%A6%E6%80%AA%E4%BA%BA)对8次投票行为的数据可视化![投票行为](./pincong_vote_analytics.png)
 
     >为[反对出道刘慈欣的回答](https://pincong.rocks/question/3998)刷赞帐号未被用于同[支字头为自己刷赞踩](https://pincong.rocks/article/1573)，但是有石锤证明这些帐号都是支字头（即扬言干烂品葱的五毛程序员）所控制。首先，pitch2就是pitch被封后支字头立即申请的系列帐号，而它们分别出现在两次捣乱中；其次，lobby是支字头[为pitch, pitch2, jjjaa被封禁而申诉](https://archive.li/jmaTO)所注册的帐号，即同一个人。另外这个jjjaa是一系列刷屏碰瓷而被封禁的捣乱帐号jjjab,jjjac,jjjad,jjjae,jjjaf,jjjag的开头（该系列帐号因被封超过7日已被品葱自动删除）。第四，龙龙龙，jjjaa-g都是自己亮明身份的小站用户，专业刷屏、碰瓷前台管理员、为墙内小站和China_irl辩护。
 
     >支字头本人碰瓷品葱管理员小二的ID‘我爱小二’，亮明身份的小站代表‘龙龙龙’、‘jjjaa[bcdefg]’系列，标准五毛‘千手关叔’系列，都是被扬言干烂品葱的五毛控制。 
-12. 2019-04-14，葱友[一只鹿兒](https://pincong.rocks/people/%E4%B8%80%E5%8F%AA%E9%B9%BF%E5%85%92)支字头刷屏时期旧文:[如何干烂新品葱？](https://pincong.rocks/article/1246)，[存档](https://archive.li/vzOI6).
 
 
 
