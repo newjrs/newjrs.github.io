@@ -19,7 +19,7 @@
 除站方的内容审查外，老用户们即遍在墙外发言也习惯自我审查和用黑话。例如，用‘八平方’指代‘六四’，用11指代习近平。这种习惯性的自我审查和黑话是常年在墙内高压环境下活动的网友具备的典型语言特征。反观自由的中文reddit子版r/saraba1st，网友一般很少用这类黑话和自我审查的习惯。
 
 ### 备注(2019-05-23)：
-* 注1：r/China_irl的7个真人mod，除ymz是专职在线外，其余6人在reddit几乎没有任何发言，据很多[网友反映其几乎是实时审核](https://archive.li/aLVQV#selection-5415.1-5400.15)，故[很多网友认为其mod团队为专业化运作（“拿钱办事”）](https://pincong.rocks/article/1659)。
+* 注1：r/China_irl的7个真人mod，除ymz是专职在线互动外，其余6人在reddit几乎没有任何发言，据很多[网友反映其几乎是实时审核](https://archive.li/aLVQV#selection-5415.1-5400.15)，故[很多网友认为其mod团队为专业化运作（“拿钱办事”）](https://pincong.rocks/article/1659)。
 * 注2：r/saraba1st 近期也因为版主[susika](https://www.reddit.com/user/susika)的审查模式而[备受争议](https://pincong.rocks/article/1659)，有网友认为其已沦陷并号召原用户转移至[r/saraba2nd](https://www.reddit.com/r/saraba2nd)。而笔者认为r/saraba1st目前症状与China_irl前期相似，温水煮青蛙的模式以防止用户突然大量流失，但还需进一步观察证实。
 
 ## 二、对话题与政治倾向的引导
