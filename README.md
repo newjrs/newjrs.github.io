@@ -116,10 +116,10 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 13. 2019-06-01更新，[品葱2公开了投票记录](https://pincong.rocks/article/1829)（[存档](https://archive.li/TJCND)），通过对两个帖子里的8次脚本刷赞行为的统计再下一把石锤证明：`支字头=小站同志=在品葱刷屏碰瓷搞破坏的五毛程序员` 。
     >葱友[科学怪人](https://pincong.rocks/people/%E7%A7%91%E5%AD%A6%E6%80%AA%E4%BA%BA)对8次投票行为的数据可视化![投票行为](./pincong_vote_analytics.png)
 
-    >为[反对出道刘慈欣的回答](https://pincong.rocks/question/3998)刷赞帐号未被用于同[支字头为自己刷赞踩](https://pincong.rocks/article/1573)，但是有石锤证明这些帐号都是支字头（即扬言干烂品葱的五毛程序员）所控制。首先，pitch2就是pitch被封后支字头立即申请的系列帐号，而它们分别出现在两次捣乱中；其次，lobby是支字头[为pitch, pitch2, jjjaa被封禁而申诉](https://archive.li/jmaTO)所注册的帐号，即同一个人。另外这个jjjaa是一系列刷屏碰瓷而被封禁的捣乱帐号jjjab,jjjac,jjjad,jjjae,jjjaf,jjjag的开头（该系列帐号因被封超过7日已被品葱自动删除）。第四，龙龙龙，jjjaa-g都是自己亮明身份的小站用户，专业刷屏、碰瓷前台管理员、为墙内小站和China_irl辩护。
+    >为[反对出道刘慈欣的回答](https://pincong.rocks/question/3998)刷赞帐号未被用于同[支字头为自己刷赞踩](https://pincong.rocks/article/1573)，但是有石锤证明这些帐号都是支字头（即扬言干烂品葱的五毛程序员）所控制。首先，pitch2就是pitch被封后支字头立即申请的系列帐号，而它们分别出现在两次捣乱中；其次，lobby是支字头[为pitch, pitch2, jjjaa被封禁而申诉](https://archive.li/jmaTO)所注册的帐号，即同一个人。另外这个jjjaa是一系列刷屏碰瓷而被封禁的捣乱帐号jjjab,jjjac,jjjad,jjjae,jjjaf,jjjag的开头（该系列帐号因被封超过7日已被品葱自动删除）。第四，‘龙龙龙’、‘jjjaa[bcdefg]’系列都是自己亮明身份的小站用户，专业刷屏、碰瓷前台管理员、为墙内小站和China_irl辩护。第五，‘我爱小二’是支字头碰瓷品葱管理员‘小二’的标志性ID，‘千手关叔’系列是标准五毛。这些帐号都是被扬言要干烂品葱的网军控制。
 
-    >支字头本人碰瓷品葱管理员小二的ID‘我爱小二’，亮明身份的小站代表‘龙龙龙’、‘jjjaa[bcdefg]’系列，标准五毛‘千手关叔’系列，都是被扬言干烂品葱的五毛控制。 
-14. 2019-03-25, 记者无疆界(又譯 無國界記者)发布的调查报告 [中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf)， 小粉红和巨魔大军都隶属中共大外宣.
+    >另一些亮明身份的小站代表‘goddamnit’、‘shithole’、‘BE4在哪呢’、‘proman’、‘flowery’、‘whystwm’、‘ductager’、‘小粉红’系列、‘已注销1’、‘looose’等并未参与刷赞。这些ID或与支字头属于不同的任务小组。 
+14. 2019-03-25, 记者无疆界(又譯 無國界記者)发布的调查报告 [中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf)， 小粉红和巨魔大军都隶属中共大外宣。
 
 
 <!-- Start of WebFreeCounter Code -->
