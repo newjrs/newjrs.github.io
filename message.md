@@ -117,6 +117,47 @@ KP2020所发表的倾自由派观点反而获得了非常多小站用户的赞�
 
 KP2020 自2019-4-19正式申诉受到人身攻击，但站方直至封禁KP2020帐号均未按版规处理
 
+# r/China_irl版面存档 2019-06-04
+每页25贴： 
+1. https://archive.li/spQHc 
+2. https://archive.li/tTIzS 
+3. https://archive.li/VCm0C 
+4. https://archive.li/dElgL 
+5. https://archive.li/rvFt8 
+6. https://archive.li/JxDKh 
+7. https://archive.li/n4XnH 
+8. https://archive.li/rcWpM 
+9. https://archive.li/E4gC9 
+10. https://archive.li/BaAbD 
+11. https://archive.li/qre0l 
+12. https://archive.li/fHTO3 
+13. https://archive.li/gKyPK 
+14. https://archive.li/cfqfw 
+15. https://archive.li/TUIU1 
+16. https://archive.li/u1kr0 
+17. https://archive.li/gRhah 
+18. https://archive.li/WrfOo 
+19. https://archive.li/OPTFb
+20. https://archive.li/tndiB
+21. https://archive.li/XCoCI
+22. https://archive.li/A63fr
+23. https://archive.li/P02tv
+24. https://archive.li/iMlUW
+25. https://archive.li/JslkZ
+26. https://archive.li/Ymky3
+27. https://archive.li/dgjM7
+28. https://archive.li/flDOv
+29. https://archive.li/VYhtj
+30. https://archive.li/zsV52
+31. https://archive.li/DkQ4s
+32. https://archive.li/56avT
+33. https://archive.li/8buxh
+34. https://archive.li/Zxtnn
+35. https://archive.li/qdsNq
+36. https://archive.li/ft7B8
+37. https://archive.li/iB6Ed
+
+
 <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101186330);</script>
 <script async src="//static.getclicky.com/js"></script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101186330ns.gif" /></p></noscript>
