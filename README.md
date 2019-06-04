@@ -32,7 +32,7 @@
 这个所谓开放区的两个分站内所采取的内容审核、话题引导、人身攻击等组合手段，是中共意识形态控制的标准模式，是从苏联开始近一个世纪积累下的‘无形资产’。至此，可见该网站的使命是操控引导用户思想。
 
 ### 备注(2019-05-25)：
-* 注3：牧羊犬攻击频率统计见附录3 [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md#kp2020-newjrsxyz-消息记录最新在前)。
+* 注3：牧羊犬攻击频率统计见附录4 [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md#kp2020-newjrsxyz-消息记录最新在前)。
 * 注4：小站方面对审查和驱逐异议的解释为“为防止言论过界致论坛被墙”、“屁股是歪的”，这表明开放区小站的基本态度是与中共合作。此外小站和r/China_irl所任命管理员的日常发言中也处处表现出对异议言论的不屑、憎恨和猜忌。
 
 ## 三、活跃用户的背景
@@ -97,29 +97,29 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
     >我们将这些活动解释为政权在战略上对（公众的）集体行动、不满、或普遍的负面反应等进行分散注意力的努力。
 
     >五毛党似乎主要由政府雇员组成，他们在正常工作之外做兼职，而不是像一般人认为的，由普通公民为的零碎地报酬而工作。尽管如此，这仍然是一支庞大的劳动力队伍，我们估计每年可以产生4.48亿个五毛贴。
-3. KP2020: [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md)
-4. KP2020: [针对网评员培训师的爆料(附中共仇恨教育范例)](https://archive.fo/P1XGc) --网评员来源符合美国学者研究结论
-5. [网上爆出的五毛手册《网评员内部资料(严禁外泄)》](https://pincong.rocks/article/756)
-6. Reddit用户[fengli03](https://www.reddit.com/user/fengli3):[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348), [Reddit原文及评论](https://www.reddit.com/r/saraba1st/comments/ax3bq5/%E8%AF%B4%E4%B8%80%E4%B8%8B%E8%99%8E%E6%89%91%E9%98%B2%E5%8C%BA%E4%BB%A5%E5%8F%8A%E6%9C%80%E8%BF%91%E5%85%B4%E8%B5%B7%E7%9A%84rchina_irl%E7%89%88%E5%9D%97/), [Archive版](https://archive.fo/HM8Lj)
-7. Reddit用户[Topdeckdog](https://www.reddit.com/user/Topdeckdog): [不要太自以为是了。口头警告。 removed comments: 16/34 (47.1%)](https://www.reddit.com/r/saraba1st/comments/bmi86r/%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BA%86%E5%8F%A3%E5%A4%B4%E8%AD%A6%E5%91%8A_removed_comments_1634_471/)， [触怒党国被删之贴](https://www.removeddit.com/r/China_irl/comments/bmbxkn/%E8%B7%AF%E9%80%8F%E7%A4%BE%E4%B8%AD%E5%9B%BD%E4%BB%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%89%BF%E8%AF%BA%E4%B8%8A%E5%85%A8%E9%9D%A2%E5%8F%8D%E6%82%94_%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%9C%87%E6%80%92%E8%BF%98%E4%BB%A5%E6%9B%B4%E5%A4%9A%E5%85%B3%E7%A8%8E/)
-8. 2019-04-14，葱友[一只鹿兒](https://pincong.rocks/people/%E4%B8%80%E5%8F%AA%E9%B9%BF%E5%85%92)支字头刷屏时期旧文:[如何干烂新品葱？](https://pincong.rocks/article/1246)，[存档](https://archive.li/vzOI6).
-9. 2019-5-24, 背景知识 [你们说的“支字头”是啥意思啊？能解释下吗？](https://archive.li/1U6nM)
-10. 2019-5-14更新，分析显示在品葱捣乱的[支字头跟小站同志是一伙人](https://pincong.rocks/question/4073?rf=false)，因为在揭穿化名looose的脚本王子(~~疑似~~品葱支字头)[熟悉地利用品葱点踩漏洞找出匿名用户，用熟悉的长臂管辖’命令‘品葱管理员处理其他品葱用户](https://web.archive.org/web/20190511211226/https://pincong.rocks/question/3821)后，恼羞成怒的[支字头又用相同的工具和套路对品葱发起了一轮刷屏攻击](https://pincong.rocks/question/4096)，他自己也[承认是为小站而攻击](https://pincong.rocks/article/1573)，并且支字头这次泄露了他在reddit的帐号[abudsalam](https://www.reddit.com/user/abudsalam)，此Troll以前在China_irl[帮版主捧场1](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm), [并且放黑屁2](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb)，近期又在[帮朝鲜打造形象](https://web.archive.org/web/20190513143944/https://www.reddit.com/user/abudsalam)(可以研究中共网评员的公关思路)。值得一提的是，此Troll被曝光之后又删掉了以前在China_irl的所有留言，不过还是有备份的。这些后续发展更进一步坐实了本文对墙内小站和China_irl的背景分析。
+3. 2019-03-25, 记者无疆界(又譯 無國界記者)发布的调查报告 [中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf)， 小粉红和巨魔大军都隶属中共大外宣。
+4. KP2020: [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md)
+5. KP2020: [针对网评员培训师的爆料(附中共仇恨教育范例)](https://archive.fo/P1XGc) --网评员来源符合美国学者研究结论
+6. [网上爆出的五毛手册《网评员内部资料(严禁外泄)》](https://pincong.rocks/article/756)
+7. Reddit用户[fengli03](https://www.reddit.com/user/fengli3):[说一下虎扑防区，以及最近兴起的r/China_irl版块](https://pincong.rocks/article/1348), [Reddit原文及评论](https://www.reddit.com/r/saraba1st/comments/ax3bq5/%E8%AF%B4%E4%B8%80%E4%B8%8B%E8%99%8E%E6%89%91%E9%98%B2%E5%8C%BA%E4%BB%A5%E5%8F%8A%E6%9C%80%E8%BF%91%E5%85%B4%E8%B5%B7%E7%9A%84rchina_irl%E7%89%88%E5%9D%97/), [Archive版](https://archive.fo/HM8Lj)
+8. Reddit用户[Topdeckdog](https://www.reddit.com/user/Topdeckdog): [不要太自以为是了。口头警告。 removed comments: 16/34 (47.1%)](https://www.reddit.com/r/saraba1st/comments/bmi86r/%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BA%86%E5%8F%A3%E5%A4%B4%E8%AD%A6%E5%91%8A_removed_comments_1634_471/)， [触怒党国被删之贴](https://www.removeddit.com/r/China_irl/comments/bmbxkn/%E8%B7%AF%E9%80%8F%E7%A4%BE%E4%B8%AD%E5%9B%BD%E4%BB%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%89%BF%E8%AF%BA%E4%B8%8A%E5%85%A8%E9%9D%A2%E5%8F%8D%E6%82%94_%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%9C%87%E6%80%92%E8%BF%98%E4%BB%A5%E6%9B%B4%E5%A4%9A%E5%85%B3%E7%A8%8E/)
+9. 2019-04-14，葱友[一只鹿兒](https://pincong.rocks/people/%E4%B8%80%E5%8F%AA%E9%B9%BF%E5%85%92)支字头刷屏时期旧文:[如何干烂新品葱？](https://pincong.rocks/article/1246)，[存档](https://archive.li/vzOI6).
+10. 2019-5-24, 背景知识 [你们说的“支字头”是啥意思啊？能解释下吗？](https://archive.li/1U6nM)
+11. 2019-5-14更新，分析显示在品葱捣乱的[支字头跟小站同志是一伙人](https://pincong.rocks/question/4073?rf=false)，因为在揭穿化名looose的脚本王子(~~疑似~~品葱支字头)[熟悉地利用品葱点踩漏洞找出匿名用户，用熟悉的长臂管辖’命令‘品葱管理员处理其他品葱用户](https://web.archive.org/web/20190511211226/https://pincong.rocks/question/3821)后，恼羞成怒的[支字头又用相同的工具和套路对品葱发起了一轮刷屏攻击](https://pincong.rocks/question/4096)，他自己也[承认是为小站而攻击](https://pincong.rocks/article/1573)，并且支字头这次泄露了他在reddit的帐号[abudsalam](https://www.reddit.com/user/abudsalam)，此Troll以前在China_irl[帮版主捧场1](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm), [并且放黑屁2](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb)，近期又在[帮朝鲜打造形象](https://web.archive.org/web/20190513143944/https://www.reddit.com/user/abudsalam)(可以研究中共网评员的公关思路)。值得一提的是，此Troll被曝光之后又删掉了以前在China_irl的所有留言，不过还是有备份的。这些后续发展更进一步坐实了本文对墙内小站和China_irl的背景分析。
     >[1做贼心虚删掉捧场原文](http://www.reddit.com/r/China_irl/comments/avt21o/_/ehhkkzm): 几成不重要了，现在订阅超过两千，在线两百，对于一个仓促建立有上网门槛的外文网站板块来说，非常不错了 
     
     >[2做贼心虚删掉黑屁原文](http://www.reddit.com/r/China_irl/comments/axip78/_/ehuczmb): 我打个比方，香港和台湾把政府交给黄志峰和林昶佐会怎样，委内瑞拉的闹剧不过是占中和太阳花革命的拉美版
     
     >附图证明品葱支字头abudsalam是小站和China_irl站长小号的证据：底部有他发小站irl保留节目 __每日新闻__ 的记录，最新的是他发朝鲜美女的记录（还自建两个sub的moderator呢！），因为China_irl已经处于僵尸态。
     ![底部有他发每日新闻的记录](./阿不都沙拉木阿不都热西提(u_abudsalam)-Reddit.png)
-11. 2019-5-17更新， [品葱已有人提议将上门的网评员做成开源数据库](https://pincong.rocks/article/1612)， 绝妙！
-12. 2019-5-18, Hymnsin, [墙外流亡中文论坛现况（2019年五月）](https://matters.news/@lzybio/%E5%A2%99%E5%A4%96%E6%B5%81%E4%BA%A1%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%86%B5-2019%E5%B9%B4%E4%BA%94%E6%9C%88-zdpuB2tRc2qVrjdqYdp7KhxYpXPi2ss9X5rdo2nzVDMrN7xAe), 2019-02-19, [想象中国的自由](https://matters.news/@lzybio/%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%87%AA%E7%94%B1-zdpuAu2EYT7jTvh9uu2RwFpMoUwd3eEXQqqrAktWpShengc4X), Matters.news
-13. 2019-06-01更新，[品葱2公开了投票记录](https://pincong.rocks/article/1829)（[存档](https://archive.li/TJCND)），通过对两个帖子里的8次脚本刷赞行为的统计再下一把石锤证明：`支字头=小站同志=在品葱刷屏碰瓷搞破坏的五毛程序员` 。
+12. 2019-5-17更新， [品葱已有人提议将上门的网评员做成开源数据库](https://pincong.rocks/article/1612)， 绝妙！
+13. 2019-5-18, Hymnsin, [墙外流亡中文论坛现况（2019年五月）](https://matters.news/@lzybio/%E5%A2%99%E5%A4%96%E6%B5%81%E4%BA%A1%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%86%B5-2019%E5%B9%B4%E4%BA%94%E6%9C%88-zdpuB2tRc2qVrjdqYdp7KhxYpXPi2ss9X5rdo2nzVDMrN7xAe), 2019-02-19, [想象中国的自由](https://matters.news/@lzybio/%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%87%AA%E7%94%B1-zdpuAu2EYT7jTvh9uu2RwFpMoUwd3eEXQqqrAktWpShengc4X), Matters.news
+14. 2019-06-01更新，[品葱2公开了投票记录](https://pincong.rocks/article/1829)（[存档](https://archive.li/TJCND)），通过对两个帖子里的8次脚本刷赞行为的统计再下一把石锤证明：`支字头=小站同志=在品葱刷屏碰瓷搞破坏的五毛程序员` 。
     >葱友[科学怪人](https://pincong.rocks/people/%E7%A7%91%E5%AD%A6%E6%80%AA%E4%BA%BA)对8次投票行为的数据可视化![投票行为](./pincong_vote_analytics.png)
 
     >为[反对出道刘慈欣的回答](https://pincong.rocks/question/3998)刷赞帐号未被用于同[支字头为自己刷赞踩](https://pincong.rocks/article/1573)，但是有石锤证明这些帐号都是支字头（即扬言干烂品葱的五毛程序员）所控制。首先，pitch2就是pitch被封后支字头立即申请的系列帐号，而它们分别出现在两次捣乱中；其次，lobby是支字头[为pitch, pitch2, jjjaa被封禁而申诉](https://archive.li/jmaTO)所注册的帐号，即同一个人。另外这个jjjaa是一系列刷屏碰瓷而被封禁的捣乱帐号jjjab,jjjac,jjjad,jjjae,jjjaf,jjjag的开头（该系列帐号因被封超过7日已被品葱自动删除）。第四，‘龙龙龙’、‘jjjaa[bcdefg]’系列都是自己亮明身份的小站用户，专业刷屏、碰瓷前台管理员、为墙内小站和China_irl辩护。第五，‘我爱小二’是支字头碰瓷品葱管理员‘小二’的标志性ID，‘千手关叔’系列是标准五毛。这些帐号都是被扬言要干烂品葱的网军控制。
 
     >另一些亮明身份的小站代表‘goddamnit’、‘shithole’、‘BE4在哪呢’、‘proman’、‘flowery’、‘whystwm’、‘ductager’、‘小粉红’系列、‘已注销1’、‘looose’等并未参与刷赞。这些ID或与支字头属于不同的任务小组。 
-14. 2019-03-25, 记者无疆界(又譯 無國界記者)发布的调查报告 [中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf)， 小粉红和巨魔大军都隶属中共大外宣。
 15. 2016-09-29，饶毅, [六十年前留学生的选择](https://telegra.ph/%E5%85%AD%E5%8D%81%E5%B9%B4%E5%89%8D%E7%95%99%E5%AD%A6%E7%94%9F%E7%9A%84%E9%80%89%E6%8B%A9-06-04), 知乎专栏(电报缓存)。
 16. 2017-07-11, 高天韵，中共对知识分子的欺骗，（1）[延安圈套](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%971%E5%BB%B6%E5%AE%89%E5%9C%88%E5%A5%97-06-04)，（2）[反右阳谋](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%972%E5%8F%8D%E5%8F%B3%E9%98%B3%E8%B0%8B-06-04)，（3）[文革巨难](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%973%E6%96%87%E9%9D%A9%E5%B7%A8%E9%9A%BE-06-04)，（4）[自由有多远](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%974%E8%87%AA%E7%94%B1%E6%9C%89%E5%A4%9A%E8%BF%9C-06-04).
 17. 2017-04-26, 鲍善慈, [建国初期回国知识分子和他们的遭遇](https://telegra.ph/%E5%BB%BA%E5%9B%BD%E5%88%9D%E6%9C%9F%E5%9B%9E%E5%9B%BD%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E5%92%8C%E4%BB%96%E4%BB%AC%E7%9A%84%E9%81%AD%E9%81%87-06-04)，上海内蒙古知青网论坛。
