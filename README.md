@@ -90,14 +90,14 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 一家之言，难免浅薄，请各位自行判断、评论。
 
 ## 附：其它观点和后续
-1. [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/?p=6844)
+1. [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/?p=6844) (小粉红画像)
 2. [由哈佛、斯坦福、加州大学圣迭戈分校的三位政治学者对五毛的研究论文](https://archive.md/dZysi)： King, Gary, Pan, Jennifer and Margaret E. Roberts. 2017. “How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.” American Political Science Review 111(3): 484-501. 2017. ([PDF](https://web.archive.org/web/20190519005725/http://jenpan.com/jen_pan/50c.pdf), [Replication](https://web.archive.org/web/20190519005725/https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QSZMPD))
     >长期以来，中国政府一直被怀疑雇用多达200万人，暗中将大量的假名和其他欺骗性文章插入真实的社交媒体帖子中，好像他们是普通人的真实意见。
 
     >我们将这些活动解释为政权在战略上对（公众的）集体行动、不满、或普遍的负面反应等进行分散注意力的努力。
 
     >五毛党似乎主要由政府雇员组成，他们在正常工作之外做兼职，而不是像一般人认为的，由普通公民为的零碎地报酬而工作。尽管如此，这仍然是一支庞大的劳动力队伍，我们估计每年可以产生4.48亿个五毛贴。
-3. 记者无疆界(又譯 無國界記者)2019-03-25发布的调查报告[中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf)认为网评员和小粉红都隶属中共大外宣。
+3. 记者无疆界(又譯 無國界記者)2019-03-25发布的调查报告[中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf)认为网评员([Wiki](https://zh.wikipedia.org/zh-hans/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98))和小粉红都隶属中共大外宣。
 4. KP2020: [本文涉及帐号在newjrs.xyz内接收消息原始数据](./message.md)
 5. KP2020: [针对网评员培训师的爆料(附中共仇恨教育范例)](https://archive.fo/P1XGc) --网评员来源符合美国学者研究结论
 6. [网上爆出的五毛手册《网评员内部资料(严禁外泄)》](https://pincong.rocks/article/756)
