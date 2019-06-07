@@ -1,6 +1,6 @@
 | 其它版本 | PDF | Reddit | Telegra.ph 电报 | Archive 存档 |
 |---|---|---|---|
-| 链接 | [最新版](./KFQ_China_irl_Background_Security_Analysis.pdf) | [原文](https://www.reddit.com/r/saraba1st/comments/bgni7i/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8Crchina_irl%E7%9A%84%E8%83%8C%E6%99%AF%E5%8F%8A%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%85%E8%AF%84/) | [新版](https://telegra.ph/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8CrChina-irl%E7%9A%84%E8%83%8C%E6%99%AF%E5%8F%8A%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%85%E8%AF%84-06-02)， [原始版](https://telegra.ph/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8CrChina-irl%E6%98%AF%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E5%A4%A7%E5%A4%96%E5%AE%A3%E9%A1%B9%E7%9B%AE-04-23) | [存档1](https://archive.is/WAMaO)， [存档2](https://archive.li/aIKsA)
+| 链接 | [最新版](./KFQ_China_irl_Background_Security_Analysis.pdf) | [原文](https://www.reddit.com/r/saraba1st/comments/bgni7i/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8Crchina_irl%E7%9A%84%E8%83%8C%E6%99%AF%E5%8F%8A%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%85%E8%AF%84/) | [新版](https://telegra.ph/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8CrChina-irl%E7%9A%84%E8%83%8C%E6%99%AF%E5%8F%8A%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%85%E8%AF%84-06-02)， [原始版](https://telegra.ph/%E5%BC%80%E6%94%BE%E5%8C%BA%E5%B0%8F%E7%AB%99%E5%92%8CrChina-irl%E6%98%AF%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E5%A4%A7%E5%A4%96%E5%AE%A3%E9%A1%B9%E7%9B%AE-04-23) | [所有存档](http://archive.md/https://newjrs.github.io/) |
 
 # [开放区小站和r/China_irl的背景及安全性浅评](https://newjrs.github.io)
 匿名人士，2019-4-23
