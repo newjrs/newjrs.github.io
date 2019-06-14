@@ -90,7 +90,7 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 
 ## 附：其它观点和后续
 1. [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/?p=6844) (小粉红画像)
-2. [由哈佛、斯坦福、加州大学圣迭戈分校的三位政治学者对五毛的研究论文](https://archive.md/dZysi)： King, Gary, Pan, Jennifer and Margaret E. Roberts. 2017. “How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.” American Political Science Review 111(3): 484-501. 2017. ([PDF](https://web.archive.org/web/20190519005725/http://jenpan.com/jen_pan/50c.pdf), [Replication](https://web.archive.org/web/20190519005725/https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QSZMPD))
+2. [由哈佛、斯坦福、加州大学圣迭戈分校的三位政治学者对五毛的研究论文](https://archive.md/dZysi)： King, Gary, Pan, Jennifer and Margaret E. Roberts. 2017. “How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.” American Political Science Review 111(3): 484-501. 2017. ([PDF](./50c.pdf), [Replication](https://web.archive.org/web/20190519005725/https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QSZMPD))
     >长期以来，中国政府一直被怀疑雇用多达200万人，暗中将大量的假名和其他欺骗性文章插入真实的社交媒体帖子中，好像他们是普通人的真实意见。
 
     >我们将这些活动解释为政权在战略上对（公众的）集体行动、不满、或普遍的负面反应等进行分散注意力的努力。
