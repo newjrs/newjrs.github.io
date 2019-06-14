@@ -1,7 +1,8 @@
 # 关于数字极权的研究
 搜集整理数字集权/极权相关研究报告、论文和书籍
 
-1. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （[p315](https://www.reddit.com/user/p315/)推荐）
+1. 韩兆柱, 马文娟 [数字治理理论研究综述](https://ipfs.ink/e/QmUF36rg9iH71LSf2jsi8P1YH8cN5zxZxMSzAagBzV3WhR), 《甘肃行政学院学报》2016年第20161期
+2. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （ [p315](https://www.reddit.com/user/p315/)推荐 ）
 2. [Digital Roads to Totalitarianism](https://link.springer.com/chapter/10.1007/978-3-030-00813-0_7) （[-plenipotentiary-](https://www.reddit.com/user/-plenipotentiary-/)推荐）
 * [The Citizen Lab](https://citizenlab.ca/) （[-plenipotentiary-](https://www.reddit.com/user/-plenipotentiary-/)推荐）:
     * [The Predator in Your Pocket: A Multidisciplinary Assessment of the Stalkerware Application Industry](https://citizenlab.ca/docs/stalkerware-holistic.pdf)
