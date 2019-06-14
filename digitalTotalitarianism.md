@@ -13,7 +13,7 @@
   * [2018网络自由报告：数字极权主义的崛起](https://freedomhouse.org/article/2018-freedom-on-the-net-press-release-simplified-chinese-digital-authoritarianism)。全文[网页](https://freedomhouse.org/report/freedom-net/freedom-net-2018/rise-digital-authoritarianism), [PDF](https://freedomhouse.org/sites/default/files/FOTN_2018_Final%20Booklet_11_1_2018.pdf)
 3. 记者无疆界(又譯 無國界記者) Reporters Without Borders https://rsf.org/en
   * 调查报告: [中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf), 2019-03-25
-5. 张千帆, [极权主义的建构与解构](https://archive.ph/67VFR), 中国战略分析总第1期, 2017年01月13日
+5. 张千帆, [极权主义的建构与解构](https://ipfs.ink/e/QmdRY16z6ZFrtHnDsJMBVukVta14Ri9Q4KNhUJ6SBGHQHa), 中国战略分析总第1期, 2017年01月13日 [存档](https://archive.ph/67VFR)
 6. Yuyu Chen, David Y. Yang, ["The Impact of Media Censorship: 1984 or Brave New World?"](https://site.stanford.edu/sites/g/files/sbiybj8706/f/3586-1984bravenewworld_draft.pdf), AMERICAN ECONOMIC REVIEW, VOL. 109, NO. 6, JUNE 2019, (pp. 2294-2332) 《1984还是美丽新世界？——分析中国媒体审查的影响》作者：陈玉宇教授（北京大学）, David Yang教授(斯坦福/MIT)，刊登于经济学界顶尖期刊《美国经济评论 American Economic Review》2019年6月号 （[Topdeckdog](https://www.reddit.com/user/Topdeckdog/)推荐）
 7. [Jennifer Pan](http://jenpan.com) （[台湾研究](https://pincong.rocks/people/%E5%8F%B0%E6%B9%BE%E7%A0%94%E7%A9%B6)推荐）
   * [中国政府如何编造社交媒体贴子以实现战略性的分心（歪楼）而非卷入争论](https://archive.md/dZysi). King, Gary, Pan, Jennifer and Margaret E. Roberts. 2017. “How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.” American Political Science Review 111(3): 484-501. 2017. ([PDF](./50c.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QSZMPD))
