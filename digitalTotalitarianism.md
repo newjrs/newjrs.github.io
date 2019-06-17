@@ -19,8 +19,8 @@
 2. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （ [u/p315](https://www.reddit.com/user/p315/)推荐 ）
 
 相关讨论
-* r/saraba1st [讨论1](https://www.reddit.com/r/saraba1st/comments/c0f1c4/%E6%9C%89%E6%B2%A1%E6%9C%89%E5%95%A5%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E9%9B%86%E6%9D%83%E7%9A%84%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6/)
-* r/saraba1st [讨论2](https://www.reddit.com/r/saraba1st/comments/bwko9v/1984%E8%BF%98%E6%98%AF%E7%BE%8E%E4%B8%BD%E6%96%B0%E4%B8%96%E7%95%8C%E5%88%86%E6%9E%90%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5%E7%9A%84%E5%BD%B1%E5%93%8D%E4%BD%9C%E8%80%85%E9%99%88%E7%8E%89%E5%AE%87%E6%95%99%E6%8E%88%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6_david/)
+* r/saraba1st [讨论1](https://old.reddit.com/r/saraba1st/comments/c0f1c4/%E6%9C%89%E6%B2%A1%E6%9C%89%E5%95%A5%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E9%9B%86%E6%9D%83%E7%9A%84%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6/)
+* r/saraba1st [讨论2](https://old.reddit.com/r/saraba1st/comments/bwko9v/1984%E8%BF%98%E6%98%AF%E7%BE%8E%E4%B8%BD%E6%96%B0%E4%B8%96%E7%95%8C%E5%88%86%E6%9E%90%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5%E7%9A%84%E5%BD%B1%E5%93%8D%E4%BD%9C%E8%80%85%E9%99%88%E7%8E%89%E5%AE%87%E6%95%99%E6%8E%88%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6_david/)
 
 ## 相关链接
 
