@@ -17,7 +17,6 @@
   * [机器政治——互联网崛起与集权新世纪](http://caa-ins.org/archives/3665), [English Original Essay](http://fredturner.stanford.edu/wp-content/uploads/Turner-Machine-Politics-Harpers-Magazine-2019-01.pdf)
 9. 韩兆柱, 马文娟 [数字治理理论研究综述](https://ipfs.ink/e/QmUF36rg9iH71LSf2jsi8P1YH8cN5zxZxMSzAagBzV3WhR), 《甘肃行政学院学报》2016年第20161期
 10. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （ [u/p315](https://www.reddit.com/user/p315/)推荐 ）
-11. [Luterngun](https://matters.news/@Luterngun), [数字极权时代生存手记](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/)
 
 相关讨论
 * r/saraba1st [讨论1](https://old.reddit.com/r/saraba1st/comments/c0f1c4/%E6%9C%89%E6%B2%A1%E6%9C%89%E5%95%A5%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E9%9B%86%E6%9D%83%E7%9A%84%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6/)
@@ -25,7 +24,7 @@
 
 
 Matters上的相关作者
-1. [Luterngun](https://matters.news/@Luterngun/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E7%9A%84%E9%93%81%E5%B9%95%E4%B8%8B-%E6%88%91%E4%BB%AC%E5%B7%B2%E9%80%80%E6%97%A0%E5%8F%AF%E9%80%80-zdpuB2rVyKBpoHLuxJCWh9BxeqmAas2XqjryFasdS2JhUQdg6), [数字极权时代的生存手册](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/), [数字极权的铁幕下，我们已退无可退](https://matters.news/@Luterngun/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E7%9A%84%E9%93%81%E5%B9%95%E4%B8%8B-%E6%88%91%E4%BB%AC%E5%B7%B2%E9%80%80%E6%97%A0%E5%8F%AF%E9%80%80-zdpuB2rVyKBpoHLuxJCWh9BxeqmAas2XqjryFasdS2JhUQdg6)
+1. [Luterngun](https://matters.news/@Luterngun): [数字极权时代的生存手册](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/), [数字极权的铁幕下，我们已退无可退](https://matters.news/@Luterngun/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E7%9A%84%E9%93%81%E5%B9%95%E4%B8%8B-%E6%88%91%E4%BB%AC%E5%B7%B2%E9%80%80%E6%97%A0%E5%8F%AF%E9%80%80-zdpuB2rVyKBpoHLuxJCWh9BxeqmAas2XqjryFasdS2JhUQdg6)
 
 中共宣传口发布的相关理论研究（代表一类观点且有一定政策预测力）
 1. 刘娜, [自媒体意识形态安全问题及对策](https://archive.li/dMT5s), 2016-11-03
