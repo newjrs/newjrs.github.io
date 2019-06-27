@@ -17,6 +17,7 @@
   * [机器政治——互联网崛起与集权新世纪](http://caa-ins.org/archives/3665), [English Original Essay](http://fredturner.stanford.edu/wp-content/uploads/Turner-Machine-Politics-Harpers-Magazine-2019-01.pdf)
 9. 韩兆柱, 马文娟 [数字治理理论研究综述](https://ipfs.ink/e/QmUF36rg9iH71LSf2jsi8P1YH8cN5zxZxMSzAagBzV3WhR), 《甘肃行政学院学报》2016年第20161期
 10. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （ [u/p315](https://www.reddit.com/user/p315/)推荐 ）
+11. [Luterngun](https://matters.news/@Luterngun), [数字极权时代生存手记](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/)
 
 相关讨论
 * r/saraba1st [讨论1](https://old.reddit.com/r/saraba1st/comments/c0f1c4/%E6%9C%89%E6%B2%A1%E6%9C%89%E5%95%A5%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E9%9B%86%E6%9D%83%E7%9A%84%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6/)
