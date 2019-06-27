@@ -26,6 +26,18 @@
 Matters上的相关作者
 1. [Luterngun](https://matters.news/@Luterngun/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E7%9A%84%E9%93%81%E5%B9%95%E4%B8%8B-%E6%88%91%E4%BB%AC%E5%B7%B2%E9%80%80%E6%97%A0%E5%8F%AF%E9%80%80-zdpuB2rVyKBpoHLuxJCWh9BxeqmAas2XqjryFasdS2JhUQdg6), [数字极权时代的生存手册](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/), [数字极权的铁幕下，我们已退无可退](https://matters.news/@Luterngun/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E7%9A%84%E9%93%81%E5%B9%95%E4%B8%8B-%E6%88%91%E4%BB%AC%E5%B7%B2%E9%80%80%E6%97%A0%E5%8F%AF%E9%80%80-zdpuB2rVyKBpoHLuxJCWh9BxeqmAas2XqjryFasdS2JhUQdg6)
 
+中共宣传口发布的相关理论研究（代表一类观点且有一定政策预测力）
+1. 刘娜, [自媒体意识形态安全问题及对策](https://archive.li/dMT5s), 2016-11-03
+2. 刘恩东, [互联网成为美国意识形态渗透新工具--新媒体意识形态对外传播运行机制与美国对华民主输出](https://archive.li/sNBD3),  2016-11-20
+3. 刘恩东 [新媒体意识形态对外传播运行机制与美国对华民主输出](https://archive.md/KtFrv), 2016-11-21
+4. 程同顺 张文君, [互联网技术的政治属性与意识形态传播-对互联网与意识形态研究的批判与反思](https://archive.li/odwco), 2016-12-15
+5. 吴锋,李耀飞, [察网：披露境外反华媒体的态势及严重危害](https://archive.md/srHbm), 2017-06-23
+6. 李晓燕, [大数据时代维护我国意识形态安全的思考](https://archive.md/p3D5C), 2017-10-27
+7. 李艳艳, [2017年度网络思想状况分析](https://archive.li/23yUa), 2018-01-11
+8. 刘永志, [西方意识形态网络渗透新态势及我国对策研究](https://web.archive.org/web/20190619044434/http://www.xizhengw.com/html/jtysgmzt/YiShiXingTai/37961.html), 2018年02月24日
+9. 董向慧 吴阿娟 陈杰, [“人工智能+媒体”蕴含的风险及对策](https://archive.li/K8iYy), 《新闻战线》,2018年10月08日
+10. 杨洋 [学习习近平关于构建网络意识形态话语权的重要论述](https://archive.md/gmXU1), 2018-12-29
+
 ## 相关链接
 
 ### 学者
