@@ -123,7 +123,7 @@ KP2020還僅僅是一個不受歡迎的使用者，小站就可以將所有資�
 16. 2017-07-11, 高天韻, 中共對知識分子的欺騙:(1)[延安圈套](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%971%E5%BB%B6%E5%AE%89%E5%9C%88%E5%A5%97-06-04),(2)[反右陽謀](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%972%E5%8F%8D%E5%8F%B3%E9%98%B3%E8%B0%8B-06-04),(3)[文革巨難](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%973%E6%96%87%E9%9D%A9%E5%B7%A8%E9%9A%BE-06-04),(4)[自由有多遠](https://telegra.ph/%E4%B8%AD%E5%85%B1%E5%AF%B9%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AC%BA%E9%AA%974%E8%87%AA%E7%94%B1%E6%9C%89%E5%A4%9A%E8%BF%9C-06-04)。
 17. 2017-04-26, 鮑善慈, [建國初期回國知識分子和他們的遭遇](https://telegra.ph/%E5%BB%BA%E5%9B%BD%E5%88%9D%E6%9C%9F%E5%9B%9E%E5%9B%BD%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E5%92%8C%E4%BB%96%E4%BB%AC%E7%9A%84%E9%81%AD%E9%81%87-06-04), 上海內蒙古知青網論壇。
 18. 2013-08-06, [81位民國院士近60人49年後留在大陸的命運](https://telegra.ph/81%E4%BD%8D%E6%B0%91%E5%9B%BD%E9%99%A2%E5%A3%AB%E8%BF%9160%E4%BA%BA49%E5%B9%B4%E5%90%8E%E7%95%99%E5%9C%A8%E5%A4%A7%E9%99%86%E7%9A%84%E5%91%BD%E8%BF%90-06-04), 文學城。
-
+19. 2019-06-14, 吳靖、盧南峰, [政治成熟的可能性：以“工業黨”和“小粉紅”的話語行動為例](https://ipfs.ink/e/QmSeZGnFq6fAioHXNTRytwXvkutZ2HNn84VDqxsvan9syy)
 
 <!-- Start of WebFreeCounter Code -->
 <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvrqoxn&nd=7&style=26" border="0" alt="web counter"></a>
