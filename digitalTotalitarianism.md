@@ -43,6 +43,7 @@ Matters上的相关作者
 2. 吴飞 唐娟, [新媒体时代的新闻专业主义：挑战、坚守与重构](https://www.ixinwenjie.com/index.php?m=content&c=index&a=show&catid=12&id=2451)
 3. [《全球传媒学刊》2013年春（总第13期），2013年03月](./GlobalMediaJournal201303.pdf)
 4. 彭兰, [智媒化：未来媒体浪潮 ——新媒体发展趋势报告（2016）](./智媒化：未来媒体浪潮 ——新媒体发展趋势报告（2016）.pdf)
+5. [13000字智能媒体文献综述](http://archivecaslytosk.onion/GwHBw)
 
 ## 相关链接
 
