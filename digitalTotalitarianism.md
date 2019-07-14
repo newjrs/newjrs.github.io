@@ -13,6 +13,7 @@
 7. [The Citizen Lab](https://citizenlab.ca/) （[-plenipotentiary-](https://www.reddit.com/user/-plenipotentiary-/)推荐）:
     * [The Predator in Your Pocket: A Multidisciplinary Assessment of the Stalkerware Application Industry](https://citizenlab.ca/docs/stalkerware-holistic.pdf)
     * [INSTALLING FEAR: A Canadian Legal and Policy Analysis of Using, Developing, and Selling Smartphone Spyware and Stalkerware Applications](https://citizenlab.ca/docs/stalkerware-legal.pdf)
+8. Alice Marwick, Rebecca Lewis, [Media Manipulation and Disinformation Online](./DataAndSociety_MediaManipulationAndDisinformationOnline.pdf), 2017-05-15
 8. [Fred Turner](http://fredturner.stanford.edu/) （[sunjinxiang](https://www.reddit.com/user/sunjinxiang/)推荐）
   * [机器政治——互联网崛起与集权新世纪](http://caa-ins.org/archives/3665), [English Original Essay](http://fredturner.stanford.edu/wp-content/uploads/Turner-Machine-Politics-Harpers-Magazine-2019-01.pdf)
 9. 韩兆柱, 马文娟 [数字治理理论研究综述](https://ipfs.ink/e/QmUF36rg9iH71LSf2jsi8P1YH8cN5zxZxMSzAagBzV3WhR), 《甘肃行政学院学报》2016年第20161期
