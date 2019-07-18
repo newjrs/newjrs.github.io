@@ -14,11 +14,11 @@
     * [The Predator in Your Pocket: A Multidisciplinary Assessment of the Stalkerware Application Industry](https://citizenlab.ca/docs/stalkerware-holistic.pdf)
     * [INSTALLING FEAR: A Canadian Legal and Policy Analysis of Using, Developing, and Selling Smartphone Spyware and Stalkerware Applications](https://citizenlab.ca/docs/stalkerware-legal.pdf)
 8. Alice Marwick, Rebecca Lewis, [Media Manipulation and Disinformation Online](./DataAndSociety_MediaManipulationAndDisinformationOnline.pdf), 2017-05-15
-8. [Fred Turner](http://fredturner.stanford.edu/) （[sunjinxiang](https://www.reddit.com/user/sunjinxiang/)推荐）
+9. [Fred Turner](http://fredturner.stanford.edu/) （[sunjinxiang](https://www.reddit.com/user/sunjinxiang/)推荐）
   * [机器政治——互联网崛起与集权新世纪](http://caa-ins.org/archives/3665), [English Original Essay](http://fredturner.stanford.edu/wp-content/uploads/Turner-Machine-Politics-Harpers-Magazine-2019-01.pdf)
-9. 韩兆柱, 马文娟 [数字治理理论研究综述](https://ipfs.ink/e/QmUF36rg9iH71LSf2jsi8P1YH8cN5zxZxMSzAagBzV3WhR), 《甘肃行政学院学报》2016年第20161期
-10. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （ [u/p315](https://www.reddit.com/user/p315/)推荐 ）
-11. [品葱用户molecular分享的数字极权书单](https://pincong.rocks/article/2416), [存档](https://archive.li/5M1wH)
+10. 韩兆柱, 马文娟 [数字治理理论研究综述](https://ipfs.ink/e/QmUF36rg9iH71LSf2jsi8P1YH8cN5zxZxMSzAagBzV3WhR), 《甘肃行政学院学报》2016年第20161期
+11. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （ [u/p315](https://www.reddit.com/user/p315/)推荐 ）
+12. [品葱用户molecular分享的数字极权书单](https://pincong.rocks/article/2416), [存档](https://archive.li/5M1wH)
   * Authoritarianism in an Age of Democratization, 这本书以伊朗、埃及、菲律宾、马来西亚等国的实际事例探讨了民主化进程，权威政治动力学、反对派的挑战和苦难，以及民主化后权威政治卷土重来的问题。
   * Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media, 考虑到中国传统宣传方法影响力局限，网络宣传已成主流，这本书有许多anti-propaganda, anti-disinformation的案例，有针对俄罗斯、乌克兰等，对我们反抗五毛水军等势力有一定启发性。
   * Encyclopedia of Propaganda, 专述政治宣传。古往今来世界各国无所不包。建议选择重点条目和感兴趣的案例阅读。本人只阅读了不到五分之一。
@@ -27,6 +27,7 @@
   * How to Lose a Country: The 7 Steps from Democracy to Dictatorship, 观点略有片面，但其论点颇有启发。
   * Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan, 一本学术专著，较为专业。
   * Mme de Staël and Political Liberalism in France, 主要论述Germaine de Staël的政治思想，其中对保守主义、共和主义以及对革命的反思引人注意。
+13. Edward S. Herman, Noam Chomsky, [Manufacturing Consent: The Political Economy of the Mass Media](https://archive.org/stream/pdfy-NekqfnoWIEuYgdZl/Manufacturing+Consent+%5BThe+Political+Economy+Of+The+Mass+Media%5D_djvu.txt), 1988
 
 相关讨论
 * r/saraba1st [讨论1](https://old.reddit.com/r/saraba1st/comments/c0f1c4/%E6%9C%89%E6%B2%A1%E6%9C%89%E5%95%A5%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E9%9B%86%E6%9D%83%E7%9A%84%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6/)
