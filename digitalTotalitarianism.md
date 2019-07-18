@@ -18,7 +18,7 @@
   * [机器政治——互联网崛起与集权新世纪](http://caa-ins.org/archives/3665), [English Original Essay](http://fredturner.stanford.edu/wp-content/uploads/Turner-Machine-Politics-Harpers-Magazine-2019-01.pdf)
 9. 韩兆柱, 马文娟 [数字治理理论研究综述](https://ipfs.ink/e/QmUF36rg9iH71LSf2jsi8P1YH8cN5zxZxMSzAagBzV3WhR), 《甘肃行政学院学报》2016年第20161期
 10. <失控>, <奇点临近>, <细胞生命的礼赞>, <21世纪资本论> （ [u/p315](https://www.reddit.com/user/p315/)推荐 ）
-11. [品葱用户推荐好书](https://pincong.rocks/article/2416), [存档](https://archive.li/5M1wH)
+11. [品葱用户molecular分享的数字极权书单](https://pincong.rocks/article/2416), [存档](https://archive.li/5M1wH)
   1. Authoritarianism in an Age of Democratization, 这本书以伊朗、埃及、菲律宾、马来西亚等国的实际事例探讨了民主化进程，权威政治动力学、反对派的挑战和苦难，以及民主化后权威政治卷土重来的问题。
   2. Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media, 考虑到中国传统宣传方法影响力局限，网络宣传已成主流，这本书有许多anti-propaganda, anti-disinformation的案例，有针对俄罗斯、乌克兰等，对我们反抗五毛水军等势力有一定启发性。
   3. Encyclopedia of Propaganda, 专述政治宣传。古往今来世界各国无所不包。建议选择重点条目和感兴趣的案例阅读。本人只阅读了不到五分之一。
@@ -47,6 +47,7 @@ Matters上的相关作者
 8. 刘永志, [西方意识形态网络渗透新态势及我国对策研究](https://web.archive.org/web/20190619044434/http://www.xizhengw.com/html/jtysgmzt/YiShiXingTai/37961.html), 2018年02月24日
 9. 董向慧 吴阿娟 陈杰, [“人工智能+媒体”蕴含的风险及对策](https://archive.li/K8iYy), 《新闻战线》,2018年10月08日
 10. 杨洋 [学习习近平关于构建网络意识形态话语权的重要论述](https://archive.md/gmXU1), 2018-12-29
+11. 华春莹 [占据道义制高点，提升国际话语权](https://web.archive.org/web/20190718205713/https://pincong.rocks/article/2379), 学习时报, 2019-07-12
 
 媒体操纵
 1. 周樹華、閻岩, [媒體可信度研究： 起源，發展，機會和挑戰](./2427152016.pdf)
