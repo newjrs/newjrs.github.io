@@ -124,6 +124,7 @@ KP2020还仅仅是一个不受欢迎的用户，小站就可以将所有数据�
 17. 2017-04-26, 鲍善慈, [建国初期回国知识分子和他们的遭遇](https://telegra.ph/%E5%BB%BA%E5%9B%BD%E5%88%9D%E6%9C%9F%E5%9B%9E%E5%9B%BD%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E5%92%8C%E4%BB%96%E4%BB%AC%E7%9A%84%E9%81%AD%E9%81%87-06-04), 上海内蒙古知青网论坛。
 18. 2013-08-06, [81位民国院士近60人49年后留在大陆的命运](https://telegra.ph/81%E4%BD%8D%E6%B0%91%E5%9B%BD%E9%99%A2%E5%A3%AB%E8%BF%9160%E4%BA%BA49%E5%B9%B4%E5%90%8E%E7%95%99%E5%9C%A8%E5%A4%A7%E9%99%86%E7%9A%84%E5%91%BD%E8%BF%90-06-04), 文学城。
 19. 2019-06-14, 吴靖、卢南峰, [政治成熟的可能性：以“工业党”和“小粉红”的话语行动为例](https://ipfs.ink/e/QmSeZGnFq6fAioHXNTRytwXvkutZ2HNn84VDqxsvan9syy)
+20. 2015-12-20, 姚新勇, [中国大陆种族民族主义观察](https://ipfs.ink/e/QmSsn4Va3zWMWLZ2tzw8PpLCgfHYgFv4ZS4PtwguN2o25u),原载于《原道》第17辑，首都师范大学出版社，2012年2月出版
 
 <!-- Start of WebFreeCounter Code -->
 <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvrqoxn&nd=7&style=26" border="0" alt="web counter"></a>
